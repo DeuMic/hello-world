@@ -19,3 +19,8 @@ Project Timeline
 ============================
 Project start: Tue, 2018-07-31
 Project end: -TBD-
+
+
+Closing Remarks
+============================
+... great experience!
