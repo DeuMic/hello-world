@@ -1,4 +1,10 @@
 # hello-world
 This is my first demo project. 
 
-... now I made my first commit :-)
+Project Team
+===========================
+Designer: DeuMic
+Programmer: DeuMic
+Integrator: DeuMic
+Tester: DeuMic
+User: DeuMic
