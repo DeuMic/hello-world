@@ -1,5 +1,6 @@
 # hello-world
-This is my first demo project. 
+===========================
+This is my first github demo project. Let´s see what is possible ...
 
 Project Team
 ===========================
